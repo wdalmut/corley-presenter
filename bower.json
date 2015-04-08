@@ -1,0 +1,6 @@
+{
+  "name": "corley-presenter",
+  "dependencies": {
+    "jquery": "~2.1"
+  }
+}
